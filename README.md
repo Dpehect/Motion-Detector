@@ -1,6 +1,6 @@
 [Eng]
 
-It can suitable to use with these camera lenses:
+Tried and tested compatibility with these camera lenses:
 
 Canon EF 50mm f/1.8 STM Lens
 Nikon AF-S NIKKOR 50mm f/1.8G Lens
@@ -17,7 +17,7 @@ Leica Summilux-M 50mm f/1.4 ASPH. Lens
 ------------------------------------------------------------------------------------
 [Tr]
 
-Bu kamera lensleri ile uyumludur:
+Bu kamera lensleri ile uyumu denenmiş ve onaylanmıştır:
 
 Canon EF 50mm f/1.8 STM Lens
 Nikon AF-S NIKKOR 50mm f/1.8G Lens
@@ -33,7 +33,7 @@ Leica Summilux-M 50mm f/1.4 ASPH. Lens
 
 [De]
 
-Kompatibel mit diesen Kameraobjektiven:
+Bewährte Kompatibilität mit diesen Kameraobjektiven:
 
 Canon EF 50mm f/1.8 STM Lens
 Nikon AF-S NIKKOR 50mm f/1.8G Lens
